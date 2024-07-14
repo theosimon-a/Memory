@@ -1,0 +1,51 @@
+.titulo {
+    text-align: center;
+}
+
+body {
+    background-image: url(https://wallpapercave.com/wp/wp4913657.jpg);
+}
+
+.tabuleiro {
+    width: 45%;
+    background-color: rgb(255, 0, 0);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+.carta {
+    width: 120px;
+    background-color: black;
+    height: 150px;
+    margin: 3px;
+
+}
+
+.linha {
+    display: flex;
+    flex: auto;
+    margin: 2px;
+}
+
+body {
+    background-image: url;
+}
+
+.conteudo {
+    flex: auto;
+    display: flex;
+    max-width: 80%;
+    margin: auto;
+}
+
+.estatistica {
+    background-image:url(https://i.pinimg.com/originals/35/58/0d/35580d64b9b883fd0e0678595fc2aefd.gif);
+
+}
+
+.anuncios {
+    background-image: url(https://hojepr.com/wp-content/uploads/2024/06/fortune_tiger-jogo-do-tigrinho-gif-1.gif);
+    background-size: cover;
+    background-position:center;
+}
